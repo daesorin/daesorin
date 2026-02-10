@@ -1,16 +1,19 @@
-## Hi there 👋
+### root@daesorin:~# whoami
 
-<!--
-**daesorin/daesorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Osaigbovo (Dil) Omere**
+DevOps Engineer | Linux SysAdmin | Python Programmer
 
-Here are some ideas to get you started:
+### root@daesorin:~# cat /etc/arsenal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **The Daily Driver:** Arch Linux
+- **The Editor:** Neovim and VS Code
+- **The Shell:** Zsh + Bash scripting
+
+### root@daesorin:~# ping -c 5 social.network
+
+PING social.network (127.0.0.1) 56(84) bytes of data.
+64 bytes from mastodon: [daesorin](https://hachyderm.io/@daesorin)
+64 bytes from **discord**: daesorin
+64 bytes from **github**: [My Configs](https://github.com/daesorin/dotfiles.git)
+64 bytes from github: [My Scripts/Bin files](https://github.com/daesorin/scripts.git)
+64 bytes from **matrix**: @daesorin:matrix.org
