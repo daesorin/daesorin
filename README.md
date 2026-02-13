@@ -3,7 +3,7 @@
                   .o+`                 root@daesorin
                  `ooo/                 -------------
                 `+oooo:                OS: Arch Linux x86_64
-               `+oooooo:               Uptime: Six-Month March (Month 1)
+               `+oooooo:               Uptime: Many years
                -+oooooo+:              Shell: zsh 5.9
              `/:-:++oooo+:             WM: Hyprland
             `/++++/+++++++:            Terminal: kitty
