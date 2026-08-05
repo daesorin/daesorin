@@ -2,7 +2,7 @@
 
 ```console
 $ uname -r && whoami
-Linux archlinux | sysadmin & infrastructure developer
+Linux artixlinux | sysadmin & infrastructure developer
 
 ```
 
@@ -12,7 +12,7 @@ System administrator and automation developer focusing on resilient Linux enviro
 
 ## // SYSTEMS & TOOLING
 
-* **Operating Systems**: Arch Linux, Debian, macOS
+* **Operating Systems**: Artix Linux, Debian, Ubuntu, REHL, macOS
 * **Containerisation & Virtualisation**: Docker, Podman (Quadlets), Incus
 * **Automation & Scripting**: Python, Bash, rsync pipelines
 * **Infrastructure**: Self-hosted services, UFW firewall configuration, SSH hardening
